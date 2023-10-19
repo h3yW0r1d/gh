@@ -1,6 +1,6 @@
 # Django Apps
 
-## github Auth
+## github Authentication
 
 - git login
 - new app
