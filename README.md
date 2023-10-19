@@ -1,4 +1,4 @@
-# Django App
+# Django Apps
 
 ## github Auth
 
